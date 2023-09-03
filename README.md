@@ -20,7 +20,7 @@ I am an extroverted 20 yo Male. If you have any questions feel free to ask and I
 
 I am currently working on beautifying my GitHub account. 😉
 
-My last project is [Music recommendations]([https://github.com/karmatys8/Music-recommendations). ⌛
+My last project is [Music recommendations](https://github.com/karmatys8/Music-recommendations). ⌛
 
 ## 🛠️ Stack
 
