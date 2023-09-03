@@ -2,11 +2,11 @@
 
 ## 🙋 About Me
 
-I am an aspiring Front End Developer. Looking for job/internship, preferably in React. Currently I have no commercial experience. 🚀
+I am an aspiring Front End Developer. Looking for a job/internship, preferably in React. Currently I have no commercial experience. 🚀
 
-Currently studying at AGH. I am on 3rd semester of IT on Software Development path. I started seriously programming in June of 2022. In addition to studying for classes in my free time I self-study. 🎓
+Currently studying at AGH. I am on my 3rd semester of IT on the Software Development path. I started seriously programming in June of 2022. In addition to studying for classes in my free time I self-study. 🎓
 
-I am an extrovertic 20 yo Male. If you have any questions feel free to ask and I may be able to help you. 😊
+I am an extroverted 20 yo Male. If you have any questions feel free to ask and I may be able to help you. 😊
 
 ### Hobbys
 
@@ -18,7 +18,7 @@ I am an extrovertic 20 yo Male. If you have any questions feel free to ask and I
 
 ## 💾 Projects
 
-I am currently working on beautyfing my GitHub account. 😉
+I am currently working on beautifying my GitHub account. 😉
 
 My last project is [Music recommendations](/Music-recommendations). ⌛
 
@@ -35,8 +35,10 @@ My last project is [Music recommendations](/Music-recommendations). ⌛
 
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## Contact
-
+## 📞 Contact
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/karmatys8)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karmatys888@gmail.com)
+
+## 🎉 Credits
+Profile README.md design [inspiration](https://github.com/ruppysuppy)
