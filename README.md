@@ -18,7 +18,7 @@ I am an extroverted 20 yo Male. If you have any questions feel free to ask and I
 
 ## 💾 Projects
 
-I am currently working on beautifying my GitHub account. 😉
+I am currently working on beautifying my GitHub account and creating LinkedIn account. 😉
 
 My last project is [Music recommendations](https://github.com/karmatys8/Music-recommendations). ⌛
 
@@ -37,8 +37,9 @@ My last project is [Music recommendations](https://github.com/karmatys8/Music-re
 
 ## 📞 Contact
 
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/karmatys8)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karmatys888@gmail.com)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/karmatys8)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karmatys)
 
 ## 🎉 Credits
 Profile README.md design [inspiration](https://github.com/ruppysuppy)
