@@ -18,9 +18,9 @@ I am an extroverted 20 yo Male. If you have any questions feel free to ask and I
 
 ## 💾 Projects
 
-I am currently working on beautifying my GitHub account and creating LinkedIn account. 😉
+I am currently working on [stock-market-dashboard](https://github.com/karmatys8/stock-market-dashboard). 📈
 
-My last project is [Music recommendations](https://github.com/karmatys8/Music-recommendations). ⌛
+My last project is [RECOMmusicENDATIONS](https://github.com/karmatys8/RECOMmusicENDATIONS). ⌛
 
 ## 🛠️ Stack
 
