@@ -1,6 +1,6 @@
 # Cześć! 👋
 
-## 📑 Spis treści
+## Spis treści
 
 1. [O mnie](#o-mnie)
 2. [Projekty](#projekty)
@@ -10,12 +10,14 @@
 
 ## O mnie
 
-Jestem aspirującym Front End deweloperem. szukam pracy/stażu/praktyk, najlepiej w Reactcie. Aktualnie nie mam doświadczenia komercyjnego. 🚀
+Jestem aspirującym Front End deweloperem. Szukam pracy/stażu/praktyk, najlepiej w Reactcie. Aktualnie nie mam doświadczenia komercyjnego. 🚀
 
-Studiuje Informatykę od 3 semestrów na AGH. Wybrałem ścieżkę Wytwarzania Oprogramowania. Zacząłem na poważnie programować w czerwcu 2022.
-Oprócz uczenia się na studia w wolnym czasie samodzielnie uczę się programowania Front End. 🎓
+Od 3 semestrów studiuje Informatykę na AGH, podążając ścieżką Wytwarzania Oprogramowania. Zacząłem programować na poważnie w czerwcu 2022.
+Oprócz nauki na studia, wolny czas poświęcam na samodzielną naukę Front End dewelopmentu. 🎓
 
-Jestem ekstrawertycznym 20 letnim mężczyzną. 😊
+Jestem ekstrawertycznym 20 latkiem. 😊
+
+Z powodu dwujęzyczności tego repozytorium, niektóre repozytoria są dostępne tylko w jednym języku. Przetłumaczenie wszystkich z nich zajęłoby mi zbyt dużo czasu. 😕
 
 ### Hobby
 
@@ -27,16 +29,18 @@ Jestem ekstrawertycznym 20 letnim mężczyzną. 😊
 
 ## Projekty
 
-Aktualnie pracuję nad [aplikacją giełdową](https://github.com/karmatys8/stock-market-dashboard) i uczę się na studia. 📈 + 👨‍🎓
+Aktualnie skupiam się na studiach na których mam do zrobienia dużo projektów. Najciekawsze z nich to stworzenie bazy danych i stworzenie strony internetowej sklepu. Niestety, aby uniknąć plagiaryzmu, repozytoria z nimi zostaną prywatne do końca semestru. 👨‍🎓
 
 Mój ostatni projekt to [zadanie rekrutacyjne do BIT WEBu](https://github.com/karmatys8/BIT_WEB_recruitment_task). ⌛
 
-Możesz zobaczyć więcej repozytorium na moim [profilu](https://github.com/karmatys8?tab=repositories). 👈
+Możesz zobaczyć więcej repozytorium na [moim profilu](https://github.com/karmatys8?tab=repositories). 👈
+
+Projekt [aplikacja giełdowa](https://github.com/karmatys8/stock-market-dashboard) został tymczasowo wstrzymany z powodu dużej ilości pracy na studia. 📆
 
 #### Uwaga
 
-Mimo że kiedyś miałem więcej commitów, większość z nich to była zmiana jednego pliku. Aktualnie każdy commit to nowa funkcjonalność, naprawa buga itp.
-Tak naprawdę aktualnie używam Gita i Githuba znacznie więcej niż wcześniej.
+Mimo że kiedyś miałem więcej commitów, większość z nich to była zmiana jednego pliku. Obecnie każdy commit to nowa funkcjonalność, naprawa błędu, itp.
+Tak naprawdę aktualnie używam Gita i Githuba znacznie częściej niż wcześniej.
 
 ## Technologie
 

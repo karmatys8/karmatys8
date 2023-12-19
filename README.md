@@ -2,7 +2,7 @@
 
 [Polska wersja](translations/README_pl.md)
 
-## 📑 Contents
+## Contents
 
 1. [About me](#about-me)
 2. [Projects](#projects)
@@ -12,12 +12,14 @@
 
 ## About Me
 
-I am an aspiring Front End developer. Looking for a job/internship, preferably in React. Currently I have no commercial experience. 🚀
+I am an aspiring Front End developer. Looking for a job/internship, preferably in React. At the moment I have no commercial experience. 🚀
 
-I have been studying IT for 3 semesters at AGH. I chose the Software Development path. I started seriously programming in June of 2022.
+I have been studying IT for 3 semesters at AGH, following the Software Development path. I started seriously programming in June of 2022.
 In addition to studying for classes in my free time I self-study in Front End development. 🎓
 
-I am an extroverted 20 yo Male. 😊
+I am an extroverted 20 yo male. 😊
+
+As I am bilingual and so is this GitHub profile, some repositories are only available in one language. Translating all of them would take me too much time. 😕
 
 ### Hobbys
 
@@ -29,16 +31,18 @@ I am an extroverted 20 yo Male. 😊
 
 ## Projects
 
-I am currently working on [stock market dashboard](https://github.com/karmatys8/stock-market-dashboard) and learning for studies. 📈 + 👨‍🎓
+I'm currently immersed in my studies, requiring several projects. The most intriguing ones are creating a database and developing an online shops website. Unfortunately, to prevent plagiarism, they're set as private until the semester ends. 👨‍🎓
 
-My last project is [Recruitment task for BIT WEB](https://github.com/karmatys8/BIT_WEB_recruitment_task). ⌛
+My most recent project is [Recruitment task for BIT WEB](https://github.com/karmatys8/BIT_WEB_recruitment_task). ⌛
 
 You can see more repos on my [profile](https://github.com/karmatys8?tab=repositories). 👈
 
+Project [stock market dashboard](https://github.com/karmatys8/stock-market-dashboard) is currently postponed due to the heavy studies workload. 📆
+
 #### Note
 
-Although I used to commit way more, most of them were singular file updates. Right now every commit is a new feature, bug fix etc.
-In fact I use Git and GitHub way more than before.
+Although I used to commit way more, most of them were singular file updates. Currently every commit is a new feature, bug fix etc.
+In fact I am using Git and GitHub significantly more often than before.
 
 ## Stack
 
