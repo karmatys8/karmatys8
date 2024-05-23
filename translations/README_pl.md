@@ -2,35 +2,35 @@
 
 ## O mnie
 
-Jestem aspirującym Front End deweloperem. Szukam pracy/stażu/praktyk, najlepiej w Reactcie. Aktualnie nie mam doświadczenia komercyjnego. 🚀
+Jestem aspirującym Software deweloperem, zdobywającym pierwsze doświadczenie w branży. 🦿
 
-Od 4 semestrów studiuje Informatykę na AGH, podążając ścieżką Wytwarzania Oprogramowania. Zacząłem programować na poważnie w czerwcu 2022.
+Od 4 semestrów studiuje Informatykę na AGH, podążając ścieżką Wytwarzania Oprogramowania.
 Oprócz nauki na studia, wolny czas poświęcam na samodzielną naukę Front End dewelopmentu. 🎓
 
-Jestem ekstrawertycznym 20 latkiem. 😊
+Jestem ekstrawertycznym 21 latkiem. 😊
 
 Z powodu dwujęzyczności tego repozytorium, niektóre repozytoria są dostępne tylko w jednym języku. Przetłumaczenie wszystkich z nich zajęłoby mi zbyt dużo czasu. 😕
 
 ### Hobby
 
-💪 Kulturystka.
+💪 Kulturystka
 
-🍜 Oglądanie anime i czytanie mangi.
+🍜 Oglądanie anime i czytanie mangi
 
-🐲 Granie w planszówki.
+🐲 Granie w planszówki
 
 ## Projekty
 
-Aktualnie pracuję nad [Stroną sklepową](https://github.com/karmatys8/WDAI-Projekt). 🛒
+Aktualnie pracuję nad [Analizą danych dla Twitch'a](https://github.com/karmatys8/ScalaSparkTwitch). 👾
 
-Mój ostatni projekt to [zadanie rekrutacyjne do BIT WEBu](https://github.com/karmatys8/BIT_WEB_recruitment_task). ⌛
+Mój ostatni projekt to [Strona sklepowa](https://github.com/karmatys8/Go2Clothing). 🛒
 
 Możesz zobaczyć więcej repozytorium na [moim profilu](https://github.com/karmatys8?tab=repositories). 👈
 
 #### Uwaga
 
 Mimo że kiedyś miałem więcej commitów, większość z nich to była zmiana jednego pliku. Obecnie każdy commit to nowa funkcjonalność, naprawa błędu, itp.
-Tak naprawdę aktualnie używam Gita i Githuba znacznie częściej niż wcześniej.
+Tak naprawdę aktualnie używam Gita i Github'a znacznie częściej niż wcześniej.
 
 ## Stos
 

@@ -4,28 +4,28 @@
 
 ## About Me
 
-I am an aspiring Front End developer. Looking for a job/internship, preferably in React. At the moment I have no commercial experience. 🚀
+I am an aspiring Software developer, taking my first steps into the industry. 🦿
 
-I have been studying IT for 4 semesters at AGH, following the Software Development path. I started seriously programming in June of 2022.
-In addition to studying for classes in my free time I self-study in Front End development. 🎓
+I have been studying IT for 4 semesters at AGH, following the Software Development path.
+In addition to my coursework, I self-study Front End development in my leisure time. 🎓
 
-I am an extroverted 20 yo male. 😊
+I am an extroverted 21 yo male. 😊
 
-As I am bilingual and so is this GitHub profile, some repositories are only available in one language. Translating all of them would take me too much time. 😕
+As I am bilingual and so is my GitHub profile, some repositories are only available in one language. Translating all of them would require too much time. 😕
 
 ### Hobbys
 
-💪 Bodybuilding.
+💪 Bodybuilding
 
-🍜 Watching anime and reading manga.
+🍜 Watching anime and reading manga
 
-🐲 Playing board games.
+🐲 Playing board games
 
 ## Projects
 
-Currently working on [Shopping website](https://github.com/karmatys8/WDAI-Projekt). 🛒
+Currently working on [Data analysis for Twitch](https://github.com/karmatys8/ScalaSparkTwitch). 👾
 
-My most recent project is [Recruitment task for BIT WEB](https://github.com/karmatys8/BIT_WEB_recruitment_task). ⌛
+My most recent project is [Shopping website](https://github.com/karmatys8/Go2Clothing). 🛒
 
 You can see more repos on my [profile](https://github.com/karmatys8?tab=repositories). 👈
 
