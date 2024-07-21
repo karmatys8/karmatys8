@@ -21,39 +21,41 @@ Z powodu dwujęzyczności tego repozytorium, niektóre repozytoria są dostępne
 
 ## Projekty
 
-Aktualnie pracuję nad [Analizą danych dla Twitch'a](https://github.com/karmatys8/ScalaSparkTwitch). 👾
-
-Mój ostatni projekt to [Strona sklepowa](https://github.com/karmatys8/Go2Clothing). 🛒
+Mój ostatni projekt to [Twitch API w Scali](https://github.com/karmatys8/ScalaSparkTwitch). 👾
 
 Możesz zobaczyć więcej repozytorium na [moim profilu](https://github.com/karmatys8?tab=repositories). 👈
 
-#### Uwaga
-
-Mimo że kiedyś miałem więcej commitów, większość z nich to była zmiana jednego pliku. Obecnie każdy commit to nowa funkcjonalność, naprawa błędu, itp.
-Tak naprawdę aktualnie używam Gita i Github'a znacznie częściej niż wcześniej.
-
 ## Stos
 
-### Technologie
+### Główne:
 
 ![git](https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=F05032)
-![vite](https://img.shields.io/badge/Vite-936cfd?style=for-the-badge&logo=vite&logoColor=ffba14)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Technologie:
+
+![vite](https://img.shields.io/badge/Vite-936cfd?style=for-the-badge&logo=vite&logoColor=ffba14)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![redux-saga](https://img.shields.io/badge/Redux_Saga-9999FF?style=for-the-badge&logo=redux-saga&logoColor=white)
+![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![styled-components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### Środowisko:
 
+![nvm](https://img.shields.io/badge/NVM-44CC11?style=for-the-badge&logo=nvm&logoColor=white)
 ![npm](https://img.shields.io/badge/Npm-cb3837?style=for-the-badge&logo=npm&logoColor=ffffff)
+![eslint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![asus](https://img.shields.io/badge/ASUS-0078D6?style=for-the-badge&logo=asus&logoColor=000000)
+![macOS](https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Kontakt
 
